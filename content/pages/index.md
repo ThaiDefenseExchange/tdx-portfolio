@@ -9,7 +9,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/tdx-logo-test-white.svg
+      url: /images/Artboard 5.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
