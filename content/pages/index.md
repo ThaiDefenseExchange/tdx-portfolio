@@ -23,7 +23,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/tdx-logo-test-white.svg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
