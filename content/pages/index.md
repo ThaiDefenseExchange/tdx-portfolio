@@ -21,7 +21,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-36
+          - pt-0
           - pb-0
           - pl-14
           - pr-14
