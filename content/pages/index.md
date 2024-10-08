@@ -21,10 +21,10 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
+          - pt-10
+          - pb-10
+          - pl-10
+          - pr-10
         alignItems: center
         justifyContent: center
         flexDirection: col-reverse
