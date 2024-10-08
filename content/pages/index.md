@@ -8,7 +8,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Hire me
+        label: Contact us
         altText: ''
         url: /
         showIcon: true
