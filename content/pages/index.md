@@ -3,38 +3,6 @@ type: PageLayout
 title: Home
 colors: colors-a
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: Thai Defence Exchange
-    subtitle: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - type: HeroSection
     title: >-
       I'm a developer, digital artist, consultant and a bunch of other
