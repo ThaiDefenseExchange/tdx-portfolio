@@ -4,8 +4,46 @@ title: Home
 colors: colors-a
 sections:
   - type: HeroSection
-    title: Thai Defence Exchange
+    title: ''
     subtitle: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/tdx-logo-test-white.svg
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-a
+    backgroundSize: inset
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-36
+          - pb-0
+          - pl-80
+          - pr-80
+        alignItems: center
+        justifyContent: center
+        flexDirection: col-reverse
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: CtaSection
+    title: Thai Defence Exchange
+    text: ''
     actions:
       - type: Button
         label: Contact us
@@ -16,33 +54,25 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/tdx-logo-test-white.svg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
-          - pt-36
-          - pb-48
+          - pt-20
+          - pb-20
           - pl-4
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: col
       title:
-        textAlign: left
-      subtitle:
-        textAlign: left
+        textAlign: center
       text:
-        textAlign: left
+        textAlign: center
       actions:
-        justifyContent: flex-start
+        justifyContent: center
 ---
