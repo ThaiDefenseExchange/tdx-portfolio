@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "",
+        "title": "Thai Defence Exchange",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -34,43 +34,11 @@
             "self": {
                 "width": "full"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/tdx-logo-test-white-52px.png",
-            "altText": "tdx",
-            "caption": "tdx",
-            "elementId": ""
         }
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
@@ -81,7 +49,7 @@
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Copyright ©2024 THAI DEFENSE EXCHANGE\n",
         "styles": {
             "self": {
                 "width": "narrow",
