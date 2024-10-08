@@ -37,7 +37,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/tdx-logo-test-white.png",
+            "url": "/images/tdx-logo-test-white.svg",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
