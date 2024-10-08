@@ -80,7 +80,7 @@ sections:
     text: |
       Copyright ©2024 THAI DEFENSE EXCHANGE
     actions: []
-    colors: colors-c
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
