@@ -29,10 +29,10 @@ sections:
         justifyContent: center
         flexDirection: col-reverse
         margin:
-          - mt-10
-          - ml-10
-          - mb-10
-          - mr-10
+          - mt-60
+          - ml-60
+          - mb-60
+          - mr-60
       title:
         textAlign: left
       subtitle:
