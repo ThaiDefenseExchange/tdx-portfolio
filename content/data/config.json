@@ -32,7 +32,7 @@
         ],
         "styles": {
             "self": {
-                "width": "wide"
+                "width": "full"
             }
         }
     },
@@ -42,7 +42,7 @@
         "copyrightText": "Copyright ©2024 THAI DEFENSE EXCHANGE\n",
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "full",
                 "padding": [
                     "pt-16",
                     "pb-16",

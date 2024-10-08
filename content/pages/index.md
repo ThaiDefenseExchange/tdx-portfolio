@@ -24,11 +24,11 @@ sections:
       elementId: ''
     colors: colors-a
     backgroundSize: full
-    elementId: hero
+    elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
           - pt-36
           - pb-48
