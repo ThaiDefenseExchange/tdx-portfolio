@@ -6,7 +6,16 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/tdx-logo-test-white.svg
