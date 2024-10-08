@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - type: HeroSection
-    title: Thai Defence Exchange
+    title: ''
     subtitle: ''
     actions:
       - type: Button
