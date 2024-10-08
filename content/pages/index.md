@@ -24,11 +24,11 @@ sections:
       elementId: ''
     colors: colors-a
     backgroundSize: full
-    elementId: ''
+    elementId: hero
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-36
           - pb-48
@@ -36,7 +36,7 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
       title:
         textAlign: left
       subtitle:
