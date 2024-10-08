@@ -30,7 +30,7 @@ sections:
         flexDirection: col-reverse
         margin:
           - mt-0
-          - ml-32
+          - ml-0
           - mb-0
           - mr-32
       title:
