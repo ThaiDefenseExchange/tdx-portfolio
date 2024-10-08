@@ -23,16 +23,16 @@ sections:
         padding:
           - pt-36
           - pb-0
-          - pl-12
-          - pr-12
+          - pl-14
+          - pr-14
         alignItems: center
         justifyContent: center
         flexDirection: col-reverse
         margin:
           - mt-0
-          - ml-0
+          - ml-6
           - mb-0
-          - mr-0
+          - mr-6
       title:
         textAlign: left
       subtitle:
@@ -62,7 +62,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-0
+          - pt-4
           - pb-20
           - pl-4
           - pr-4
