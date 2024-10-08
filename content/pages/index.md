@@ -41,7 +41,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Contactus
         altText: ''
         url: /
         showIcon: true
