@@ -36,7 +36,7 @@ sections:
           - pr-14
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         margin:
           - mt-0
           - ml-6
