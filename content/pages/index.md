@@ -76,7 +76,7 @@ sections:
       actions:
         justifyContent: center
   - type: CtaSection
-    title: Let's do this
+    title: ''
     text: |
       Copyright ©2024 THAI DEFENSE EXCHANGE
     actions:
