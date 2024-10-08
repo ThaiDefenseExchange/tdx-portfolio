@@ -75,27 +75,4 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    subtitle: ''
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: screen
-        width: narrow
-        padding:
-          - pt-0
-          - pb-0
-          - pl-0
-          - pr-0
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
 ---
