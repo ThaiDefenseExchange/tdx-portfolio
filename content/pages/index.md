@@ -42,7 +42,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: CtaSection
-    title: Thai Defence Exchange
+    title: ''
     text: ''
     actions:
       - type: Button
