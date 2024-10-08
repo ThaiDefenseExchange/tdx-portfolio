@@ -79,16 +79,7 @@ sections:
     title: ''
     text: |
       Copyright ©2024 THAI DEFENSE EXCHANGE
-    actions:
-      - type: Button
-        label: Try it now
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-c
     backgroundSize: full
     elementId: ''
