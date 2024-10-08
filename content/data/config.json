@@ -38,7 +38,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/tdx-logo-test-white-150.png",
-            "altText": "altText of the image",
+            "altText": "tdx",
             "caption": "Caption of the image",
             "elementId": ""
         }
