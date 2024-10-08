@@ -9,7 +9,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/tdx-logo-test-white.svg
+      url: /images/Artboard 5.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
@@ -42,7 +42,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: CtaSection
-    title: Thai Defence Exchange
+    title: ''
     text: ''
     actions:
       - type: Button
@@ -64,6 +64,32 @@ sections:
         padding:
           - pt-0
           - pb-20
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: center
+      text:
+        textAlign: center
+      actions:
+        justifyContent: center
+  - type: CtaSection
+    title: ''
+    text: |
+      Copyright ©2024 THAI DEFENSE EXCHANGE
+    actions: []
+    colors: colors-a
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
         alignItems: center
