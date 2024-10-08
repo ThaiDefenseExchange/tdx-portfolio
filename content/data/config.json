@@ -39,7 +39,7 @@
             "type": "ImageBlock",
             "url": "/images/tdx-logo-test-white-150.png",
             "altText": "tdx",
-            "caption": "Caption of the image",
+            "caption": "tdx",
             "elementId": ""
         }
     },
