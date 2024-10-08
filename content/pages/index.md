@@ -24,7 +24,7 @@ sections:
       elementId: ''
     colors: colors-a
     backgroundSize: full
-    elementId: ''
+    elementId: hero
     styles:
       self:
         height: auto
