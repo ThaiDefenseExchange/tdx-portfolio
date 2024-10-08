@@ -31,7 +31,7 @@ sections:
         margin:
           - mt-60
           - ml-60
-          - mb-60
+          - mb-0
           - mr-60
       title:
         textAlign: left
