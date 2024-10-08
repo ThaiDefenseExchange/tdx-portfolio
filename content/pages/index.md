@@ -29,7 +29,7 @@ sections:
         justifyContent: center
         flexDirection: col-reverse
         margin:
-          - mt-60
+          - mt-0
           - ml-60
           - mb-0
           - mr-60
