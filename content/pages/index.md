@@ -32,7 +32,7 @@ sections:
           - mt-0
           - ml-6
           - mb-0
-          - mr-0
+          - mr-6
       title:
         textAlign: left
       subtitle:
