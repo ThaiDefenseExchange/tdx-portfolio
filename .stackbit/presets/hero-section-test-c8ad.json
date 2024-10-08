@@ -1,0 +1,76 @@
+{
+    "model": "HeroSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "test",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "test"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Thai Defence Exchange",
+                "subtitle": "",
+                "text": null,
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Contact us",
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": ""
+                    }
+                ],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/tdx-logo-test-white.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Hero image",
+                    "caption": "Caption of the image",
+                    "elementId": ""
+                },
+                "colors": "colors-a",
+                "backgroundSize": "full",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-36",
+                            "pb-48",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "row-reverse"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            },
+            "thumbnail": "images/hero-section-test-c8ad.png"
+        }
+    ]
+}
