@@ -6,7 +6,16 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: 'Contact: email@email.com'
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/lgo-tdx-white.png
@@ -41,8 +50,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: >+
+    text: >
       <div style="text-align: center">Copyright ©2024 THAI DEFENCE
       EXCHANGE</div>
-
 ---
