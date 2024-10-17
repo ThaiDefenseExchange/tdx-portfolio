@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - type: HeroSection
     title: ''
-    subtitle: ''
+    subtitle: sdfsdf
     actions: []
     media:
       type: ImageBlock
