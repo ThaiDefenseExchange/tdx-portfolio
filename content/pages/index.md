@@ -42,7 +42,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: >+
-      <div style="text-align: center">Copyright ©2024 THAI DEFENSE
+      <div style="text-align: center">Copyright ©2024 THAI DEFENCE
       EXCHANGE</div>
 
 ---
