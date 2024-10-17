@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - type: HeroSection
     title: ''
-    subtitle: ''
+    subtitle: Copyright ©2024 THAI DEFENSE EXCHANGE/email@email.com
     actions: []
     media:
       type: ImageBlock
