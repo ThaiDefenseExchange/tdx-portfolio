@@ -19,20 +19,20 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
           - pt-0
           - pb-0
-          - pl-14
-          - pr-14
+          - pl-0
+          - pr-0
         alignItems: center
         justifyContent: center
         flexDirection: col-reverse
         margin:
           - mt-0
-          - ml-6
+          - ml-0
           - mb-0
-          - mr-6
+          - mr-0
       title:
         textAlign: left
       subtitle:
