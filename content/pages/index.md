@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - type: HeroSection
     title: ''
-    subtitle: 'Contact: email@email.com'
+    subtitle: ''
     actions:
       - type: Button
         label: Contact us
