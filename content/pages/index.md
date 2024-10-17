@@ -30,9 +30,9 @@ sections:
         flexDirection: col-reverse
         margin:
           - mt-0
-          - ml-6
+          - ml-0
           - mb-0
-          - mr-6
+          - mr-0
       title:
         textAlign: left
       subtitle:
