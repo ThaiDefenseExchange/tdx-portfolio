@@ -9,7 +9,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Artboard 5.png
+      url: /images/lgo-tdx-white.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
@@ -21,7 +21,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-36
+          - pt-0
           - pb-0
           - pl-14
           - pr-14
@@ -41,40 +41,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: CtaSection
-    title: ''
-    text: ''
-    actions:
-      - type: Button
-        label: Contact us
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-a
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-0
-          - pb-20
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
   - type: CtaSection
     title: ''
     text: |
