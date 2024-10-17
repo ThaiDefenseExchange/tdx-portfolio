@@ -43,7 +43,7 @@ sections:
         justifyContent: flex-start
     text: >+
       <div style="text-align: center">Copyright ©2024 THAI DEFENSE
-      EXCHANGE/email\@email.com</div>
+      EXCHANGE</div>
 
   - type: CtaSection
     title: ''
