@@ -9,7 +9,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Artboard 5.png
+      url: /images/lgo-tdx-white.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
