@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - type: HeroSection
-    title: ''
+    title: Copyright ©2024 THAI DEFENSE EXCHANGE/email@email.com
     subtitle: ''
     actions: []
     media:
