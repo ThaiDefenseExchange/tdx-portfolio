@@ -8,7 +8,7 @@ sections:
     subtitle: 'Contact: email@email.com'
     actions:
       - type: Button
-        label: Learn more
+        label: Contact us
         altText: ''
         url: /
         showIcon: false
