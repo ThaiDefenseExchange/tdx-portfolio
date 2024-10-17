@@ -6,21 +6,12 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    actions:
-      - type: Button
-        label: Contact us
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/lgo-tdx-white.png
-      altText: Hero image
-      caption: Caption of the image
+      altText: Thai Defence Exchange
+      caption: Thai Defence Exchange
       elementId: ''
     colors: colors-a
     backgroundSize: inset
@@ -51,7 +42,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: |+
-      <div style="text-align: center"></div>
+      <div style="text-align: center">[Contact Us](mailto:email@email.com)</div>
 
   - type: TextSection
     colors: colors-f
