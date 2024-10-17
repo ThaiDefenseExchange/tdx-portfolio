@@ -11,7 +11,7 @@ sections:
         label: Contact us
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
