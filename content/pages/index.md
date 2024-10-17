@@ -45,30 +45,4 @@ sections:
       <div style="text-align: center">Copyright ©2024 THAI DEFENSE
       EXCHANGE</div>
 
-  - type: CtaSection
-    title: ''
-    text: |
-      Copyright ©2024 THAI DEFENSE EXCHANGE
-    actions: []
-    colors: colors-a
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
 ---
