@@ -6,7 +6,16 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Contact us
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/lgo-tdx-white.png
@@ -25,7 +34,7 @@ sections:
           - pb-0
           - pl-0
           - pr-0
-        alignItems: flex-start
+        alignItems: center
         justifyContent: center
         flexDirection: col-reverse
         margin:
@@ -36,18 +45,23 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: CtaSection
+    text: |+
+      <div style="text-align: center"></div>
+
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
     title: ''
-    text: |
-      Copyright ©2024 THAI DEFENSE EXCHANGE
-    actions: []
-    colors: colors-a
-    backgroundSize: full
+    subtitle: ''
+    text: >+
+      <div style="text-align: center">Copyright ©2024 THAI DEFENCE
+      EXCHANGE</div>
+
     elementId: ''
     styles:
       self:
@@ -58,13 +72,11 @@ sections:
           - pb-28
           - pl-4
           - pr-4
-        alignItems: center
         justifyContent: center
-        flexDirection: col
       title:
+        textAlign: center
+      subtitle:
         textAlign: center
       text:
         textAlign: center
-      actions:
-        justifyContent: center
 ---
