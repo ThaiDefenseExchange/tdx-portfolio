@@ -6,16 +6,7 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    actions:
-      - type: Button
-        label: Contact us
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/lgo-tdx-white.png
