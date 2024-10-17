@@ -42,7 +42,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: |+
-      <div style="text-align: center">Contact: <email@email.com></div>
+      <div style="text-align: center"></div>
 
   - type: CtaSection
     title: ''
