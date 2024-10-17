@@ -41,9 +41,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |-
-      <div style="text-align: center">[Contact Us](mailto:email@email.com)
+    text: >
+      <div style="text-align: center">[Contact Us](mailto:email@email.com) <br>
       <br>
-      Copyright ©2024 THAI DEFENCE EXCHANGEText block
-      </div>
+
+      Copyright ©2024 THAI DEFENCE EXCHANGEText block</div>
 ---
