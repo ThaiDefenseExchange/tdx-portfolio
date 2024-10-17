@@ -18,14 +18,14 @@ sections:
     elementId: ''
     styles:
       self:
-        height: auto
-        width: wide
+        height: screen
+        width: narrow
         padding:
           - pt-0
           - pb-0
           - pl-0
           - pr-0
-        alignItems: center
+        alignItems: flex-start
         justifyContent: center
         flexDirection: col-reverse
         margin:
