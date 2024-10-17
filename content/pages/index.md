@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - type: HeroSection
     title: ''
-    subtitle: Contact
+    subtitle: 'Contact: Email@email.com'
     actions: []
     media:
       type: ImageBlock
