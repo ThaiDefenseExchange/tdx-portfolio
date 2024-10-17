@@ -56,8 +56,8 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
-    subtitle: The section subtitle
+    title: ''
+    subtitle: ''
     text: >+
       <div style="text-align: center">Copyright ©2024 THAI DEFENCE
       EXCHANGE</div>
