@@ -41,9 +41,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: >+
-      <div style="text-align: center">[Contact Us](<mailto:
-      email@email.com>)</div>
+    text: |+
+      <div style="text-align: center">[Contact Us](mailto:email@email.com)</div>
 
   - type: TextSection
     colors: colors-f
