@@ -41,8 +41,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |+
-      <div style="text-align: center"></div>
+    text: >+
+      <div style="text-align: center">Copyright ©2024 THAI DEFENSE
+      EXCHANGE/email\@email.com</div>
 
   - type: CtaSection
     title: ''
