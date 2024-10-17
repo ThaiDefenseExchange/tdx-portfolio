@@ -35,7 +35,7 @@ sections:
           - pl-0
           - pr-0
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-end
         flexDirection: col-reverse
         margin:
           - mt-0
