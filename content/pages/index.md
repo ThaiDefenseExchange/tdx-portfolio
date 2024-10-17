@@ -50,9 +50,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: >
-      <div style="text-align: center">Copyright ©2024 THAI DEFENCE
-      EXCHANGE</div>
+    text: |+
+      <div style="text-align: center"></div>
+
   - type: TextSection
     colors: colors-f
     variant: variant-a
