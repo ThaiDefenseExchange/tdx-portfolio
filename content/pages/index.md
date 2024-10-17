@@ -43,40 +43,6 @@ sections:
         justifyContent: flex-start
   - type: CtaSection
     title: ''
-    text: ''
-    actions:
-      - type: Button
-        label: Contact us
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-a
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-0
-          - pb-20
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
-  - type: CtaSection
-    title: ''
     text: |
       Copyright ©2024 THAI DEFENSE EXCHANGE
     actions: []
